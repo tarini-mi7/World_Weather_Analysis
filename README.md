@@ -34,4 +34,4 @@ Also, as with the vacation search folder, there is a hotel at each location.
 
 ### Correlation of weather attributes with latitude
 
-There is a weather data folder that has valuable linear regression models looking at the correlation between different weather infromation and latitude.
+I have included valuable linear regression models looking at the correlation between different weather attributes and latitude in the WeatherPy.ipynb notebook.
